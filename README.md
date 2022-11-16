@@ -53,16 +53,17 @@ My name is Amanuel and i am a Full Stack Developer <img src="https://media.giphy
 
 ---
 
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+- [Supabase vs Firebase: Evaluation of performance and development of Progressive Web Apps](https://medium.com/@babyzewdie/supabase-vs-firebase-evaluation-of-performance-and-development-of-progressive-web-apps-c43766c40ccb?source=rss-e012963f1a3f------2)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amanuela97&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanuela97&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [Supabase vs Firebase: Evaluation of performance and development of Progressive Web Apps](https://medium.com/@babyzewdie/supabase-vs-firebase-evaluation-of-performance-and-development-of-progressive-web-apps-c43766c40ccb?source=rss-e012963f1a3f------2)
-<!-- BLOG-POST-LIST:END -->
 
 

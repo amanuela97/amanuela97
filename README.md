@@ -57,6 +57,7 @@ My name is Amanuel and i am a Full Stack Developer <img src="https://media.giphy
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Supabase vs Firebase: Evaluation of performance and development of Progressive Web Apps](https://medium.com/@babyzewdie/supabase-vs-firebase-evaluation-of-performance-and-development-of-progressive-web-apps-c43766c40ccb?source=rss-e012963f1a3f------2)
+- [JavaScript Execution: Understanding the Call Stack, Event Loop, Macrotask Queue, Microtask Queue, and Web API.](https://medium.com/@babyzewdie/javascript-execution-understanding-the-call-stack-event-loop-macrotask-queue-microtask-queue-35bb54fb1d69)
 <!-- BLOG-POST-LIST:END -->
 
 ---
